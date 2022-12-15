@@ -12,7 +12,7 @@ Project made to list Json processed products in FireBase Cloud FireStore, with f
 
 - After these steps, run the App, you can run the project by pressing ` F5 ` on your keyboard and it will automatically run the project, if your project does not have any device connected you need to define the device that will use both web and mobile
 
-- the ` .gitignore ` file is already both in the project folder and in the ` ios ` and ` android folders `
+- the ` .gitignore ` file is already both in the project folder and in the ` ios ` and ` android ` folders
 
 
 ## If you are new to Flutter read these articles and docs below on how to write your first app in Flutter:
