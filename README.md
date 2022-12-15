@@ -40,7 +40,6 @@ flutter pub get
 - [mask_input_formatter](https://pub.dev/packages/mask_input_formatter)
 - [validadores](https://pub.dev/packages/validadores)
 
-
 ## If you are new to Flutter read these articles and docs below on how to write your first app in Flutter:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
