@@ -14,7 +14,10 @@ git clone https://github.com/pedrinnhooo/FireBase.git
 ```
 
 **Step 3:**
-- In cmd(terminal) execute the command ` flutter pub get ` to load all the packages that the project uses, VsCode usually does it alone but if not, this is the command
+- In cmd(terminal) execute the command to load all the packages that the project uses, VsCode usually does it alone but if not, this is the command: 
+```
+flutter pub get
+```
 
 **Step 4:**
 - After these steps, run the App, you can run the project by pressing ` F5 ` on your keyboard and it will automatically run the project, if your project does not have any device connected you need to define the device that will use both web and mobile
