@@ -10,8 +10,10 @@ Project made to list Json processed products in FireBase Cloud FireStore, with f
 
 - In cmd(terminal) execute the command ` flutter pub get ` to load all the packages that the project uses, VsCode usually does it alone but if not, this is the command
 
+- After these steps, run the App, you can run the project by pressing ` F5 ` on your keyboard and it will automatically run the project, if your project does not have any device connected you need to define the device that will use both web and mobile
 
-### If you are new to Flutter read these articles and docs below on how to write your first app in Flutter:
+
+## If you are new to Flutter read these articles and docs below on how to write your first app in Flutter:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
