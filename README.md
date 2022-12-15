@@ -2,11 +2,11 @@
 
 Project made to list Json processed products in FireBase Cloud FireStore, with function to edit and delete the product
 
-## Getting Started
+## How to install and use the project
 
-This project is a starting point for a Flutter application.
+- [Access the repository](https://github.com/pedrinnhooo/FireBase)
 
-A few resources to get you started if this is your first Flutter project:
+Open the folder where you want to include the project and by command line execute: git clone (https://github.com/pedrinnhooo/FireBase.git)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
