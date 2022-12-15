@@ -29,6 +29,17 @@ flutter pub get
 - [IOS](https://github.com/pedrinnhooo/FireBase/tree/main/ios)
 - [Android](https://github.com/pedrinnhooo/FireBase/tree/main/android)
 
+## Used packages
+
+- [firebase_core](https://pub.dev/packages/firebase_core)
+- [firebase_database](https://pub.dev/packages/firebase_database)
+- [cloud_firestore](https://pub.dev/packages/cloud_firestore)
+- [cupertino_icons](https://pub.dev/packages/cupertino_icons)
+- [flutter_rating_bar](https://pub.dev/packages/flutter_rating_bar)
+- [intl](https://pub.dev/packages/intl)
+- [mask_input_formatter](https://pub.dev/packages/mask_input_formatter)
+- [validadores](https://pub.dev/packages/validadores)
+
 
 ## If you are new to Flutter read these articles and docs below on how to write your first app in Flutter:
 
