@@ -1,6 +1,6 @@
 # flutter_firebase
 
-A new Flutter project.
+Project made to list Json processed products in FireBase Cloud FireStore, with function to edit and delete the product
 
 ## Getting Started
 
