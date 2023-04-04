@@ -195,13 +195,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.1.1"
-  flutter_facebook_login:
-    dependency: "direct main"
-    description:
-      name: flutter_facebook_login
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "3.0.0"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -209,13 +202,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.1"
-  flutter_login_facebook:
-    dependency: "direct main"
-    description:
-      name: flutter_login_facebook
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.7.0"
   flutter_secure_storage:
     dependency: transitive
     description:
@@ -332,7 +318,7 @@ packages:
     source: hosted
     version: "0.10.2+1"
   http:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: http
       url: "https://pub.dartlang.org"
@@ -373,13 +359,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.1"
-  list_ext:
-    dependency: transitive
-    description:
-      name: list_ext
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.0.6"
   mask_input_formatter:
     dependency: "direct main"
     description:

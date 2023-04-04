@@ -27,10 +27,7 @@ dependencies:
   google_sign_in: ^5.0.0
   google_maps: ">=3.0.0 <4.0.0"
   flutter_facebook_auth: ^5.0.8
-  flutter_facebook_login: ^3.0.0
   collection: ^1.0.0
-  http: ^0.13.5
-  flutter_login_facebook: ^1.7.0
 
 #
 

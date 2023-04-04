@@ -1,4 +1,4 @@
-# Flutter FireBase CloudFireStore | Google Sign | Facebook Sign | AuthFireBase
+# Flutter FireBase CloudFireStore | Google Sign | Facebook Sign | AuthFireBase | Google Maps
 
 App connecting with Firebase and using the cloud FireStore and RealTimeDataBase to dynamically pull a list of products, I used the login with Google and Facebook and also by email and password, on another page I used Google Maps getting the user's location
 
@@ -31,27 +31,26 @@ flutter pub get
 
 ## Used packages
 
+- [get](https://pub.dev/packages/get)
+- [get_it](https://pub.dev/packages/get_it)
+- [provider](https://pub.dev/packages/provider)
 
 - [firebase_auth](https://pub.dev/packages/firebase_auth)
 - [firebase_core](https://pub.dev/packages/firebase_core)
 - [firebase_database](https://pub.dev/packages/firebase_database)
 - [cloud_firestore](https://pub.dev/packages/cloud_firestore)
 
-- [get](https://pub.dev/packages/get)
-- [get_it](https://pub.dev/packages/get_it)
-- [provider](https://pub.dev/packages/provider)
-
 - [google_fonts](https://pub.dev/packages/google_fonts)
 - [google_sign_in](https://pub.dev/packages/google_sign_in)
 - [google_maps](https://pub.dev/packages/google_maps)
 
+- [flutter_facebook_auth](https://pub.dev/packages/flutter_facebook_auth)
+
+- [intl](https://pub.dev/packages/intl)
+- [collection](https://pub.dev/packages/collection)
+
 - [cupertino_icons](https://pub.dev/packages/cupertino_icons)
 - [mask_input_formatter](https://pub.dev/packages/mask_input_formatter)
-
-
-
-
-
 
 ## If you are new to Flutter read these articles and docs below on how to write your first app in Flutter:
 
