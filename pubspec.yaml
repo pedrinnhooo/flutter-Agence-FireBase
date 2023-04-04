@@ -13,17 +13,28 @@ dependencies:
     sdk: flutter
 
 #packages:
+  get: ^4.6.5
+  get_it: ^7.2.0
+  provider: ^6.0.5
+  firebase_auth: ^4.2.9
   firebase_core: ^2.3.0
   firebase_database: ^10.0.6
   cloud_firestore: ^4.2.0
   cupertino_icons: ^1.0.2
-  flutter_rating_bar: ^4.0.1
   intl: ^0.17.0
   mask_input_formatter: ^0.0.3
-  validadores: ^1.0.5
+  google_fonts: ^4.0.3
+  google_sign_in: ^5.0.0
+  google_maps: ">=3.0.0 <4.0.0"
+  flutter_facebook_auth: ^5.0.8
+  flutter_facebook_login: ^3.0.0
+  collection: ^1.0.0
+  http: ^0.13.5
+  flutter_login_facebook: ^1.7.0
+
 #
 
-  
+
 
 dev_dependencies:
   flutter_test:
@@ -34,8 +45,16 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
-   
+
   assets:
     - imgHome.png
+    - google.png
+    - facebook.png
+    - profile.png
+    - user.png
+    - wallet.png
+    - faq.png
+    - chat.png
+    - about.png
 
-  
+
